@@ -1,0 +1,8 @@
+http:
+  bind: localhost
+  port: 8080
+  apikey: APIKEY
+bot:
+  email: mybot@gmail.com
+  password: mybot
+  admins: [myaccount@gmail.com]
